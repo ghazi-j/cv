@@ -1,0 +1,11 @@
+{
+  "name": "ghazi-j-cv",
+  "owner": { "name": "Ghazi Jawad" },
+  "plugins": [
+    {
+      "name": "prompt-master",
+      "source": "./plugins/prompt-master",
+      "description": "Rewrites a rough prompt into a clear, well-structured one before you send it"
+    }
+  ]
+}

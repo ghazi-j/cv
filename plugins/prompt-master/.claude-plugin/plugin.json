@@ -1,0 +1,10 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.0",
+  "description": "Rewrites a rough prompt into a clear, well-structured one before you send it",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Ghazi Jawad"
+  },
+  "license": "MIT"
+}
